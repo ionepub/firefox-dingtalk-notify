@@ -99,3 +99,17 @@ Exporting extension to dingding.xpi.
 ```
 
 此时，`dingding`文件夹下的`dingding.xpi`文件将被覆盖，在浏览器中重新导入即可。
+
+### 参考资料
+
+安装开发环境：https://developer.mozilla.org/zh-CN/Add-ons/SDK/Tutorials/Installation
+
+简单开发教程：https://segmentfault.com/a/1190000004058667
+
+软链接设置：http://www.2cto.com/os/201411/348552.html
+
+未签名组件被禁用：https://support.mozilla.org/zh-CN/kb/add-ons-signing-firefox?as=u&utm_source=inproduct
+
+页面注入js和css：https://developer.mozilla.org/zh-CN/Add-ons/SDK/Tutorials/Modifying_Web_Pages_Based_on_URL
+
+HTML5通知：http://blog.csdn.net/liuhe688/article/details/41971215
